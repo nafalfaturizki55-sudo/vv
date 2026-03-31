@@ -1,0 +1,16 @@
+symbol: BTCUSDT
+
+timeframes:
+  - 10m
+  - 30m
+  - 1h
+  - 1d
+
+indicator:
+  ema_short: 20
+  ema_long: 50
+  rsi_period: 14
+
+threshold:
+  strong: 70
+  weak: 40
